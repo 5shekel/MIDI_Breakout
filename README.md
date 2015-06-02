@@ -7,3 +7,5 @@ SF design suffers from a few problems, like
 * 0402 footprint - no need for the tiniest parts. we use thru hole a lot here beaucse anyways the midi sockets are big.  
   
 this is a fork, you know  
+
+![](http://i.imgur.com/5HhzLMo.jpg)
