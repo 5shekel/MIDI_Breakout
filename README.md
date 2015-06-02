@@ -1,6 +1,8 @@
 MIDI In/Out/Thru For stuff
 ========================================
 
+NOTE: work in progress, this should work but still unetched ...
+
 SF design suffers from a few problems, like   
 * the PROG/RUN jumper : non here, connect your micro to software serial. or whatever  
 * the uno formfactor: we are over(under) it, design is for ruggedness  
